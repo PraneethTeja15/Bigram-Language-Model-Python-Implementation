@@ -1,4 +1,8 @@
 # Bigram-Language-Model-Python-Implementation
+
+Name: Jilkapally Praneeth Teja
+700781935
+
 This project implements a Bigram Language Model using Python.
 The goal is to learn bigram probabilities from a small training corpus and use them to compute the probability of test sentences. The model uses Maximum Likelihood Estimation (MLE) to estimate probabilities.
 
